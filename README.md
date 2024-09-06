@@ -17,7 +17,7 @@ Você foi encarregada de desenvolver um sistema de registro de vendas que permit
 4. **Visualização Gráfica**: O sistema deve fornecer representações gráficas simples dos dados de vendas para facilitar a visualização dos resultados.
 
 ## Estrutura do Projeto
-
+ ```bash
 /desafio-final-she-lovelace
 │
 ├── README.md               # Documentação do projeto
@@ -30,7 +30,7 @@ Você foi encarregada de desenvolver um sistema de registro de vendas que permit
 ├── graficos/
 │   └── gerar_graficos.py   # Script para gerar gráficos de vendas
 └── requirements.txt        # Dependências do projeto
-
+```
 ## Funcionalidades
 
 1. **Registro de Vendas**: Captura informações como data da venda, produto vendido, quantidade e valor total.
@@ -82,7 +82,7 @@ O arquivo `requirements.txt` inclui as bibliotecas necessárias para executar o 
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 <h2> Autora </h2>
 Feito com ❤️ por Ana Beatriz Almeida 👋🏽 Entre em contato
