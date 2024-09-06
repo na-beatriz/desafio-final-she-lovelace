@@ -1,6 +1,7 @@
 from vendas.registros import registro_vendas
 from vendas.relatorios import gerar_relatorios
-from graficos.gerar_graficos import gerar_graficos
+from graficos.graficos import gerar_graficos
+
 
 def main():
     while True:
