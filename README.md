@@ -49,7 +49,7 @@ Você foi encarregada de desenvolver um sistema de registro de vendas que permit
 1. **Instalação**:
    - Clone o repositório:
      ```bash
-     git clone https://github.com/SEU-USUARIO/desafio-final-she-lovelace.git
+     git clone https://github.com/na-beatriz/desafio-final-she-lovelace.git
      cd desafio-final-she-lovelace
      ```
    - Instale as dependências:
