@@ -1,6 +1,6 @@
 from vendas.registros import registro_vendas
 from vendas.relatorios import gerar_relatorios
-from graficos.graficos import gerar_graficos
+# from graficos.graficos import gerar_graficos
 
 
 def main():
@@ -18,8 +18,8 @@ def main():
                 registro_vendas()
             elif opcao == 2:
                 gerar_relatorios()
-            elif opcao == 3:
-                gerar_graficos()
+            # elif opcao == 3:
+            #     gerar_graficos()
             elif opcao == 4:
                 print("O sistema foi encerrado.")
                 break
