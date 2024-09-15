@@ -1,3 +1,4 @@
 vendas/__pycache__
 vendas/__init__.py
 venv
+vendas/dados/vendas.csv
