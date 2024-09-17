@@ -93,7 +93,6 @@ deactivate
 
 3. **Geração de Relatórios e Gráficos**:
    - Após registrar vendas, você pode gerar relatórios e gráficos executando o comando apropriado na interface de linha de comando.
-```
 
 ## Ferramentas Utilizadas
 
