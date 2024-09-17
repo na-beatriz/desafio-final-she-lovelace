@@ -1,6 +1,6 @@
 #  Desafio Final Iniciativa She Lovelace
 
-Neste repositório você encontra o enunciado do Desafio Final da primeira turma da Iniciativa She Lovelace!
+Desafio Final da primeira turma da Iniciativa She Lovelace!
 
 ## O Problema
 
@@ -44,12 +44,40 @@ Você foi encarregada de desenvolver um sistema de registro de vendas que permit
    - Gráficos de linha para vendas por data.
    - Comparação entre o produto mais vendido e o menos vendido.
 
+## Criação e Acesso ao Ambiente Virtual
+
+### 1. Criar uma pasta para o projeto
+```bash
+mkdir novo_projeto
+cd novo_projeto/
+
+### 2. Criar o Ambiente Virtual
+python3 -m venv nome_do_ambiente_virtual
+
+### 3. Ativar o Ambiente Virtual
+No Linux/Mac: 
+source nome_do_ambiente_virtual/bin/activate
+
+Windows: nome_do_ambiente_virtual\Scripts\Activate
+
+### 4. Instalar Dependências
+pip install nome_da_biblioteca
+
+### 5. Exportar Depêndencias
+pip freeze > requirements.txt
+
+### 6. Instalar Dependências em Outra Máquina
+pip install -r requirements.txt
+
+### 7. Desativar o ambiente virtual 
+deactivate
+
 ## Como Usar
 
 1. **Instalação**:
    - Clone o repositório:
      ```bash
-     git clone https://github.com/SEU-USUARIO/desafio-final-she-lovelace.git
+     git clone https://github.com/na-beatriz/desafio-final-she-lovelace.git
      cd desafio-final-she-lovelace
      ```
    - Instale as dependências:
